@@ -40,6 +40,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mehmet-github06&label=Profile%20views&color=0e75b6&style=flat" alt="Mehmet-github06" /> </p>
 
 ------
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 [Mehmet-github06](https://github.com/Mehmet-github06)
