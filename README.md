@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+
 <h1 align="center">Hi 👋, I'm MEHMET DOĞAN</h1>
 
 
