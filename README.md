@@ -50,10 +50,11 @@
 🛠 I work on various freelance projects and gain experience that will improve my professional skills.
 
 <hr>
-<br>
 
-<h2 align="center">📊  My GitHub Stats</h2>
+
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
+<h2 align="left">📊  My GitHub Stats</h2>
 
 <p>  <img align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mehmet-github06&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/></p>
 
