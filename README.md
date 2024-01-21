@@ -49,24 +49,19 @@
 
 🛠 I work on various freelance projects and gain experience that will improve my professional skills.
 
-
-
 <hr>
 <br>
 
 <h2 align="center">📊  My GitHub Stats</h2>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
-
-
-
 <p>  <img align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mehmet-github06&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/></p>
 
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=furkan-dogu&theme=chartreuse-dark&show_icons=true" alt="my github stats"/></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mehmet-github06&theme=chartreuse-dark&show_icons=true" alt="my github stats"/></p>
 
 
-<p width="60%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-dogu&theme=chartreuse-dark&show_icons=true" alt="my commit status" /></p>
+<p width="60%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehmet-github06&theme=chartreuse-dark&show_icons=true" alt="my commit status" /></p>
 
 
 ------
