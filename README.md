@@ -29,6 +29,26 @@
 </p>
 
 <br>
+<hr >
+
+<h2 align="center">👨‍🎓 About me</h2>
+<br><br>
+
+💻I specialize in front-end and back-end development using JavaScript, React and Node.js. My passion for learning and research pushes me to constantly push the boundaries of knowledge and seek new discoveries.
+
+🚀 My Goals and Interests
+
+📚I enjoy reading books and exploring historical places. Traveling to experience the cultural richness of different countries first-hand is an important passion of mine. Besides, I love camping and nature.
+🌍 Learning about different cultures and lifestyles expands my worldview.
+
+💡 What I'm working on right now
+
+📱I follow different technologies in the software field and work on new projects that will improve myself. I am taking courses to improve myself in the field of UI/UX Designer. I am determined to constantly improve myself in this field.
+
+🎥 I also plan to share what I have learned and my experiences through a YouTube channel to benefit other people.
+
+🛠 I work on various freelance projects and gain experience that will improve my professional skills.
+
 
 
 <hr width="36%" >
