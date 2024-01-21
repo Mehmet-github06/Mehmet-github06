@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 <div align="left">
-   <a href=https://www.linkedin.com/in/furkan-dogu/ target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+   <a href=https://www.linkedin.com/in/mehmet-doğan91/ target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div> 
 
 
@@ -14,7 +14,7 @@
 
 - 📫 My email address: **mehmetseymen91@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkan-dogu&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-dogu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmet-doğan91&label=Profile%20views&color=0e75b6&style=flat" alt="mehmet-doğan91" /> </p>
 
 ## 🚀 Skills
 
