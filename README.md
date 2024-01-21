@@ -17,16 +17,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mehmet-github06&label=Profile%20views&color=0e75b6&style=flat" alt="Mehmet-github06" /> </p>
 
 <br>
-<br>
 <hr >
 
-
-
-## 🚀 Languages and Tools 🚀
+<h2 align="center">🚀 Languages and Tools 🚀</h2>
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,firebase,git,github,html,js,linux,materialui,py,react,redux,sass,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,py,materialui,tailwind,bootstrap,sass,firebase,git,github,linux,nodejs,netlify,vercel,vite,postman,figma,vscode" />
   </a>
 </p>
 
