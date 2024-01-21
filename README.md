@@ -16,7 +16,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mehmet-github06&label=Profile%20views&color=0e75b6&style=flat" alt="Mehmet-github06" /> </p>
 
-## 🚀 Skills
+<br>
+<br>
+<hr >
+
+
+
+## 🚀 Languages and Tools 🚀
 
 <p align="center">
   <a href="https://skillicons.dev">
