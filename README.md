@@ -14,7 +14,7 @@
 
 - 📫 My email address: **mehmetseymen91@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmet-doğan91&label=Profile%20views&color=0e75b6&style=flat" alt="mehmet-doğan91" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mehmet-github06&label=Profile%20views&color=0e75b6&style=flat" alt="Mehmet-github06" /> </p>
 
 ## 🚀 Skills
 
