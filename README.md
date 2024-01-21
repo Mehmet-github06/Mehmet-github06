@@ -51,30 +51,23 @@
 
 
 
-<hr width="36%" >
-
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<hr>
 <br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehmet-github06&show_icons=true&theme=dark&locale=en&layout=compact" alt="Mehmet-github06" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mehmet-github06&show_icons=true&theme=dark&locale=en" alt="Mehmet-github06" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehmet-github06&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mehmet-do%C4%9Fan-1911a2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<h2 align="center">📊  My GitHub Stats</h2>
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 
-</p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mehmet-github06&label=Profile%20views&color=0e75b6&style=flat" alt="Mehmet-github06" /> </p>
+
+
+<p>  <img align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mehmet-github06&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/></p>
+
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=furkan-dogu&theme=chartreuse-dark&show_icons=true" alt="my github stats"/></p>
+
+
+<p width="60%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-dogu&theme=chartreuse-dark&show_icons=true" alt="my commit status" /></p>
+
 
 ------
 <div align="center">
