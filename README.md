@@ -54,7 +54,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <hr>
 
-## My projects
+## My Projects
 
 ### REACT
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
