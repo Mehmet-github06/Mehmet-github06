@@ -48,8 +48,12 @@
 🎥 I also plan to share what I have learned and my experiences through a YouTube channel to benefit other people.
 
 🛠 I work on various freelance projects and gain experience that will improve my professional skills.
-
 <hr>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<hr>
+
 ## My projects
 
 ### REACT
